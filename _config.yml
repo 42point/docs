@@ -29,7 +29,7 @@ markdown: kramdown
 kramdown:
   syntax_highlighter_opts:
     disable : true
-theme: millidocs
+# theme: millidocs
 plugins:
   - jekyll-feed
 
